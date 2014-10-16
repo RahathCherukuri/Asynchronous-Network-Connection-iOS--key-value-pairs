@@ -15,9 +15,7 @@ Functionality:
 
 You can use the following to make this look pretty:
 
-MBProgressHUD: Displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. 
-
-Link: https://github.com/jdg/MBProgressHUD
+MBProgressHUD: Displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. Link: https://github.com/jdg/MBProgressHUD
 
 Reachability: It sends the status of network connection. Before sending the request to the server you can check the server connection. 
 Link: https://github.com/tonymillion/Reachability
